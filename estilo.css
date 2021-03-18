@@ -1,0 +1,85 @@
+body{background-color: rgb(48, 46, 46);}
+
+th  {
+    border: 1px solid black;
+    width: 35px;
+    height: 35px;
+  }
+
+  .tabla
+  {
+      margin-top: 70px;   
+      margin-left: 40px;
+  }
+  .tabla2{
+    margin-top: 70px; 
+    margin-left: 365px;
+  }
+ 
+
+  h1{
+      text-align: center;
+  }
+
+td
+{
+    border: none;
+}
+
+
+
+table{
+    width: 500px;
+
+}
+.oNoMetales{
+    background: rgb(15, 231, 202);
+}
+.Alcalinos{
+    background: rgb(199, 108, 211);
+}
+.alcalinoterreos{
+    background: rgb(11, 68, 192);
+}
+
+.MetalesTransicion{
+    background: rgb(216, 208, 199);
+}
+
+.actinidos{
+    background: rgba(80, 236, 93, 0.582);
+
+}
+.Lantanidos{
+    background: rgb(226, 87, 87);
+}
+.Metaloides{
+    background: rgba(218, 186, 5, 0.486);
+}
+.Ometales{
+    background: rgb(228, 146, 23);
+}
+
+.GasesNobles{
+    background: rgb(110, 174, 226);
+}
+.Halogenos{
+    background: rgb(87, 77, 230);
+}
+.tabla3{
+    margin-top: 70px;
+   
+}
+.vacio{
+    background: grey;
+}
+
+.metales{
+    
+    width: 500px;
+    background: grey;
+    border: 2px solid black;
+   
+   
+}
+
